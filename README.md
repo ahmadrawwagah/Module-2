@@ -16,5 +16,6 @@ The code was loaded onto the TTGO T1 using the Arduino IDE
 # Installation
 First, wire up the button as follows, 
 
+![IMG_4165](https://github.com/ahmadrawwagah/Module-2/assets/96959925/7b04ed14-6f32-459e-a1f8-88a13b633e29)
 
-![image](https://github.com/ahmadrawwagah/Ahmad_Scroll/assets/96959925/cee83359-cb2a-46fb-ac80-88dbd85ce5b9)
+
