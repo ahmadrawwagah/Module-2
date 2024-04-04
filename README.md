@@ -14,7 +14,7 @@ The Python program is also fairly simple. You must register with the [spotify AP
 The code was loaded onto the TTGO T1 using the Arduino IDE
 
 # Installation
-First, wire up the button as follows, 
+First, wire up the button as follows, NO and - should both connect to the sensor pin, in this case 27. C should be connected to GND and + should be connected to 5V. The potentiometer should be connected as follows. Left leg (with the legs facing you) should be connected to GND. The middle leg should be connected to the sensor pin, in this case 12. Finally, the right leg should be connected to 3V. After wiring and connecting everything, place the esp 32 in the enclosure and the potentiometer and button should be mounted to the wall as seen in the picture below. Wire the usb c cable out of a hole in the enclosure so it can be connected to the laptop.
 
 ![IMG_4165](https://github.com/ahmadrawwagah/Module-2/assets/96959925/7b04ed14-6f32-459e-a1f8-88a13b633e29)
 
